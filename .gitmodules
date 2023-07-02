@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/AzurIce/SubwayFrontend.git
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/AzurIce/SubwayAlgorithm.git
